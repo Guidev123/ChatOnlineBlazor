@@ -1,0 +1,6 @@
+@ChatOnlineBlazor.API_HostAddress = http://localhost:5159
+
+GET {{ChatOnlineBlazor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
